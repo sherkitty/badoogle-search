@@ -1,0 +1,23 @@
+apiVersion: v2
+name: badoogle
+description: A self hosted search engine on Kubernetes
+type: application
+version: 0.1.0
+appVersion: 0.8.1
+
+icon: https://github.com/sherkitty/badoogle-search/raw/main/app/static/img/favicon/favicon-96x96.png
+
+sources:
+  - https://github.com/sherkitty/badoogle-search
+  - https://gitlab.com/sherkitty/badoogle-search
+  - https://gogs.sherkitty.com/sherkitty/badoogle-search
+
+keywords:
+  - badoogle
+  - degoogle
+  - search
+  - google
+  - search-engine
+  - privacy
+  - tor
+  - python

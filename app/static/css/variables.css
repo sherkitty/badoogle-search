@@ -1,0 +1,54 @@
+/* Colors */
+:root {
+    /* LIGHT THEME COLORS */
+    --badoogle-logo: #685e79;
+    --badoogle-page-bg: #ffffff;
+    --badoogle-element-bg: #4285f4;
+    --badoogle-text: #000000;
+    --badoogle-contrast-text: #ffffff;
+    --badoogle-secondary-text: #70757a;
+    --badoogle-result-bg: #ffffff;
+    --badoogle-result-title: #1967d2;
+    --badoogle-result-url: #0d652d;
+    --badoogle-result-visited: #4b11a8;
+
+    /* DARK THEME COLORS */
+    --badoogle-dark-logo: #685e79;
+    --badoogle-dark-page-bg: #101020;
+    --badoogle-dark-element-bg: #4285f4;
+    --badoogle-dark-text: #ffffff;
+    --badoogle-dark-contrast-text: #ffffff;
+    --badoogle-dark-secondary-text: #bbbbbb;
+    --badoogle-dark-result-bg: #212131;
+    --badoogle-dark-result-title: #64a7f6;
+    --badoogle-dark-result-url: #34a853;
+    --badoogle-dark-result-visited: #bbbbff;
+}
+
+#badoogle-w {
+    fill: #4285f4;
+}
+
+#badoogle-h {
+    fill: #ea4335;
+}
+
+#badoogle-o-1 {
+    fill: #fbbc05;
+}
+
+#badoogle-o-2 {
+    fill: #4285f4;
+}
+
+#badoogle-g {
+    fill: #34a853;
+}
+
+#badoogle-l {
+    fill: #ea4335;
+}
+
+#badoogle-e {
+    fill: #fbbc05;
+}

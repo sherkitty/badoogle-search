@@ -1,0 +1,205 @@
+html {
+    background: var(--badoogle-page-bg) !important;
+}
+
+body {
+    background: var(--badoogle-page-bg) !important;
+}
+
+div {
+    color: var(--badoogle-text) !important;
+}
+
+label {
+    color: var(--badoogle-contrast-text) !important;
+}
+
+li a {
+    color: var(--badoogle-result-url) !important;
+}
+
+li {
+    color: var(--badoogle-text) !important;
+}
+
+.anon-view {
+    color: var(--badoogle-text) !important;
+    text-decoration: underline;
+}
+
+textarea {
+    background: var(--badoogle-page-bg) !important;
+    color: var(--badoogle-text) !important;
+}
+
+select {
+    background: var(--badoogle-page-bg) !important;
+    color: var(--badoogle-text) !important;
+}
+
+.ZINbbc {
+    overflow: hidden;
+    background-color: var(--badoogle-result-bg) !important;
+    margin-bottom: 10px !important;
+    border-radius: 8px !important;
+    box-shadow: 0 1px 6px rgba(32,33,36,0.28) !important;
+}
+
+.BVG0Nb {
+    background-color: var(--badoogle-result-bg) !important;
+}
+
+.ZINbbc.luh4tb {
+    background: var(--badoogle-result-bg) !important;
+    margin-bottom: 24px !important;
+}
+
+.bRsWnc {
+    background-color: var(--badoogle-result-bg) !important;
+}
+
+.x54gtf {
+    background-color: var(--badoogle-divider) !important;
+}
+
+.Q0HXG {
+    background-color: var(--badoogle-divider) !important;
+}
+
+.LKSyXe {
+    background-color: var(--badoogle-divider) !important;
+}
+
+
+a:visited h3 div {
+    color: var(--badoogle-result-visited) !important;
+}
+
+a:link h3 div {
+    color: var(--badoogle-result-title) !important;
+}
+
+a:link div {
+    color: var(--badoogle-result-url) !important;
+}
+
+div span {
+    color: var(--badoogle-secondary-text) !important;
+}
+
+input {
+    background-color: var(--badoogle-page-bg) !important;
+    color: var(--badoogle-text) !important;
+}
+
+#search-bar {
+    color: var(--badoogle-text) !important;
+    background-color: var(--badoogle-page-bg);
+}
+
+.home-search {
+    border-color: var(--badoogle-element-bg) !important;
+}
+
+.search-container {
+    background-color: var(--badoogle-page-bg) !important;
+}
+
+#search-submit {
+    border: 1px solid var(--badoogle-element-bg) !important;
+    background: var(--badoogle-element-bg) !important;
+    color: var(--badoogle-contrast-text) !important;
+}
+
+.info-text {
+    color: var(--badoogle-contrast-text) !important;
+    opacity: 75%;
+}
+
+.collapsible {
+    color: var(--badoogle-text) !important;
+}
+
+.collapsible:after {
+    color: var(--badoogle-text);
+}
+
+.active {
+    background-color: var(--badoogle-element-bg) !important;
+    color: var(--badoogle-contrast-text) !important;
+}
+
+.content, .result-config {
+    background-color: var(--badoogle-element-bg) !important;
+    color: var(--badoogle-contrast-text) !important;
+}
+
+.active:after {
+    color: var(--badoogle-contrast-text);
+}
+
+.link {
+    color: var(--badoogle-element-bg);
+}
+
+.link-color {
+    color: var(--badoogle-result-url) !important;
+}
+
+.autocomplete-items {
+    border: 1px solid var(--badoogle-element-bg);
+}
+
+.autocomplete-items div {
+    background-color: var(--badoogle-page-bg);
+    border-bottom: 1px solid var(--badoogle-element-bg);
+}
+
+.autocomplete-items div:hover {
+    background-color: var(--badoogle-element-bg);
+    color: var(--badoogle-contrast-text) !important;
+}
+
+.autocomplete-active {
+    background-color: var(--badoogle-element-bg) !important;
+    color: var(--badoogle-contrast-text) !important;
+}
+
+.footer {
+    color: var(--badoogle-text);
+}
+
+path {
+    fill: var(--badoogle-logo);
+}
+
+.header-div {
+    background-color: var(--badoogle-result-bg) !important;
+}
+
+#search-reset {
+    color: var(--badoogle-text) !important;
+}
+
+.mobile-search-bar {
+    background-color: var(--badoogle-result-bg) !important;
+    color: var(--badoogle-text) !important;
+}
+
+.search-bar-desktop {
+    background-color: var(--badoogle-result-bg) !important;
+    color: var(--badoogle-text);
+    border-bottom: 0px;
+}
+
+.ip-text-div, .update_available, .cb_label, .cb {
+  color: var(--badoogle-secondary-text) !important;
+}
+
+.cb:focus {
+  color: var(--badoogle-text) !important;
+}
+
+.desktop-header, .mobile-header {
+    background-color: var(--badoogle-result-bg) !important;
+}
