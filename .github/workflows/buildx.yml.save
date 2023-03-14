@@ -23,7 +23,7 @@ jobs:
         if: ${{ github.event.workflow_run.conclusion != 'success' && startsWith(github.ref, 'refs/tags') != true }}
         run: exit 1
       - name: checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@master
       - name: install buildx
         id: buildx
         uses: crazy-max/ghaction-docker-buildx@v1
@@ -65,7 +65,7 @@ jobs:
         if: ${{ github.event.workflow_run.conclusion != 'success' && startsWith(github.ref, 'refs/tags') != true }}
         run: exit 1
       - name: checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@master
       - name: install buildx
         id: buildx
         uses: crazy-max/ghaction-docker-buildx@v1
@@ -97,7 +97,7 @@ jobs:
         if: ${{ github.event.workflow_run.conclusion != 'success' && startsWith(github.ref, 'refs/tags') != true }}
         run: exit 1
       - name: checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@master
       - name: install buildx
         id: buildx
         uses: crazy-max/ghaction-docker-buildx@v1
@@ -131,7 +131,7 @@ jobs:
         if: ${{ github.event.workflow_run.conclusion != 'success' && startsWith(github.ref, 'refs/tags') != true }}
         run: exit 1
       - name: checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@master
       - name: install buildx
         id: buildx
         uses: crazy-max/ghaction-docker-buildx@v1
@@ -164,7 +164,7 @@ jobs:
         if: ${{ github.event.workflow_run.conclusion != 'success' && startsWith(github.ref, 'refs/tags') != true }}
         run: exit 1
       - name: checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@master
       - name: install buildx
         id: buildx
         uses: crazy-max/ghaction-docker-buildx@v1
@@ -178,7 +178,7 @@ jobs:
       - name: Login to ghcr.io
         uses: docker/login-act
       - name: checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@master
       - name: install buildx
         id: buildx
         uses: crazy-max/ghaction-docker-buildx@v1
