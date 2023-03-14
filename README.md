@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![tests](https://github.com/sherkitty/badoogle-search/actions/workflows/tests.yml/badge.svg)](https://github.com/sherkitty/badoogle-search/actions/workflows/tests.yml)
 [![buildx](https://github.com/sherkitty/badoogle-search/actions/workflows/buildx.yml/badge.svg)](https://github.com/sherkitty/badoogle-search/actions/workflows/buildx.yml)
-[![codebeat badge](https://codebeat.co/badges/e96cada2-fb6f-4528-8285-7d72abd74e8d)](https://codebeat.co/projects/github-com-sherkitty-shoogle-master)
+[![codebeat badge](https://codebeat.co/badges/e96cada2-fb6f-4528-8285-7d72abd74e8d)](https://codebeat.co/a/sherkitty-private-eye/projects)
 [![Docker Pulls](https://img.shields.io/docker/pulls/sherkitty/badoogle-search)](https://hub.docker.com/r/sherkitty/badoogle-search)
 
 <table>
